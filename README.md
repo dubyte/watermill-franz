@@ -6,7 +6,6 @@
 
 This is Pub/Sub for the [Watermill](https://watermill.io/) project.
 
-
 See [DEVELOPMENT.md](./DEVELOPMENT.md) for more information about running and testing.
 
 Watermill is a Go library for working efficiently with message streams. It is intended
@@ -16,11 +15,11 @@ implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog if that fi
 
 All Pub/Sub implementations can be found at [https://watermill.io/pubsubs/](https://watermill.io/pubsubs/).
 
-Documentation: https://watermill.io/
+Documentation: [https://watermill.io/](https://watermill.io/)
 
-Getting started guide: https://watermill.io/docs/getting-started/
+Getting started guide: [https://watermill.io/docs/getting-started/](https://watermill.io/docs/getting-started/)
 
-Issues: https://github.com/ThreeDotsLabs/watermill/issues
+Issues: [https://github.com/ThreeDotsLabs/watermill/issues](https://github.com/ThreeDotsLabs/watermill/issues)
 
 ## Contributing
 
